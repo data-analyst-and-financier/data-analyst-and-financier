@@ -9,4 +9,11 @@ My blog about economy, finance and data analytics is available [here](https://dz
 And [here](https://www.livelib.ru/reader/MherDallakyan/reviews) I am writing about the books I have read.  
 My Telegram account is [here](https://t.me/mher_dallakyan).  
 
+## Languages and Tools
+SQL
+PostgreSQL
+GitHub
+Tableau
+
+
 
