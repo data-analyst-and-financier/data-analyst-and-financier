@@ -9,5 +9,4 @@
 My Telegram account is [here](https://t.me/mher_dallakyan). 
 
 ## Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40"/>
