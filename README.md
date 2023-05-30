@@ -8,3 +8,4 @@ My resume is on the website [hh.ru](https://krasnodar.hh.ru/resume/130003eaff0bf
 My blog about economy, finance and data analytics is available [here](https://dzen.ru/financier_and_data_analyst).  
 My Telegram account is [here](https://t.me/mher_dallakyan). 
 
+## Languages and Tools
