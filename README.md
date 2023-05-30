@@ -9,4 +9,3 @@
 My Telegram account is [here](https://t.me/mher_dallakyan). 
 
 ## Languages and Tools
-:SQL:
