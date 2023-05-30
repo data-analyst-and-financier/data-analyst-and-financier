@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 ## I am a certified data analyst and a qualified economist
-💚 I like SQL, Python and Fintech. I think that combining finance and programming has a great future, and I want to be a part of it.
+:green_heart: I like SQL, Python and Fintech. I think that combining finance and programming has a great future, and I want to be a part of it.
 
 ## My CV and Accounts
 :page_facing_up:  My resume is on the website [hh.ru](https://krasnodar.hh.ru/resume/130003eaff0bfcd9940039ed1f31397a6f4237). My diplomas and commendations are [here](https://drive.google.com/drive/folders/1Q1gyNSClVSQxuSWXPRCApyHxRt-_6TL4?usp=sharing).  
